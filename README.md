@@ -37,7 +37,7 @@ Includes the following entities:
 - **Logistics**: `Courier`
 
 📌 **ERD Preview**  
-![ERD](db_and_table_creation/erd.png)
+![ERD](./erd.png)
 
 ---
 
